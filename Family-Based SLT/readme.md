@@ -1,0 +1,3 @@
+- 将此目录拷贝至fairseq最新版本的代码库中
+- 所有的脚本文本都在 myscripts
+- 详细的处理后数据在3090服务器的/home2/chu/fairseq_sign/sign/dataset中
